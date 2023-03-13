@@ -122,6 +122,13 @@ ul li a:hover{
 	color: orange;
 	font-size: 40px;
 }
+.footer h1{
+	font-size: 15px;
+	text-align: center;
+	padding-top: 160px;
+	color: orange;
+	font-style: Times New Roman;
+}
 .form{
 	width: 250px;
 	height:320px ;
